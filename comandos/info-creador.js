@@ -14,14 +14,14 @@ let pp = './Menu2.jpg'
 
 //------------ BIO
 let teksbio = `
-*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/51928500082*
-*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 wa.me/5493878224071*
+*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/51961109600*
+*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 wa.me/51929679443*
 
 ───────[ INFORMACIÓN DEL BOT ]───────
 
-✅ *NOMBRE: JennxTati*
+✅ *NOMBRE: Giabot*
 🐈 *Github:* https://github.com/aleizn
-🥏 *Whatsapp* wa.me/51928500082
+🥏 *Whatsapp* wa.me/51961109600
 
 `
   let teks = ' '

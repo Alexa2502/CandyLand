@@ -60,7 +60,7 @@ const listMessage = {
           conn.reply(m.chat, wm, m, { contextInfo: { mentionedJid: [nowner] }})
             break
             case 'bio':
-          conn.sendHydrated(m.chat, teksbio, wm, pp, "https://wa.me/51928500082 💬 ᴄʜᴀᴛs", null,null, [["JennxTati", null], [null, null],[null,null]], m)
+          conn.sendHydrated(m.chat, teksbio, wm, pp, "https://wa.me/51961109600 💬 ᴄʜᴀᴛs", null,null, [["Gianella", null], [null, null],[null,null]], m)
             break
             
           default:

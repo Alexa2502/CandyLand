@@ -44,7 +44,7 @@ let menuA = `
 *┃┃  ❍ ${ucapan()} ❍*
 *┃┣━━━━━━━━━━━━━━━━╾•*
 *┃┃ ▢ CREADOR DEL BOT:  ${creatorname}*
-*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51928500082 (𝐍𝐎 𝐁𝐎𝐓)*
+*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51961109600 (𝐍𝐎 𝐁𝐎𝐓)*
 *┃┃ ▢ VERSION » ${vs}*
 *┃┃ ▢ FECHA » ${week}, ${date}*
 *┃┃ ▢ TIEMPO ACTIVO » ${uptime}*
@@ -98,7 +98,7 @@ let menuB = `
 ┣ ➱_*minimo 30 miembros*_
 ┗━━━━━━━━━━━━━┛
 
-┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐉𝐀𝐃𝐈𝐁𝐎𝐓」─
+┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐆𝐈𝐀𝐁𝐎𝐓」─
 ├➢_${usedPrefix}serbot_
 ├➢_${usedPrefix}stop_
 ├➢_${usedPrefix}bots_

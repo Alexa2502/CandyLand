@@ -7,8 +7,8 @@ import { en, es, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['51928500082', '🔰 𝐀𝐥𝐞 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
-  ['51914865141', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
+  ['51961109600', '🔰 𝐆𝐢𝐚 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
+  ['51929679443', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
   ['573184314110', '🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰', true],
   ['50246028932', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰', true],
   ['51936767238'],
@@ -19,8 +19,8 @@ global.owner = [
   ['595986674310']
 
 ] 
-global.suittag = ['51928500082'] 
-global.mods = ['595986674310'] 
+global.suittag = ['51961109600'] 
+global.mods = ['51929679443'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -80,7 +80,7 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es
 
 /* ______________________________________________ */
-global.creadorname = '𝐉𝐞𝐧𝐧𝐱𝐓𝐚𝐭𝐢'
+global.creadorname = '𝐆𝐢𝐚𝐁𝐨𝐭'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = 'V10'
@@ -98,10 +98,10 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 global.packname = `👑 ➢ CREADOR POR:\n📅 ➢ Día:\n🗓️ ➢ Fecha:`
 global.author = ` DORRAT-BOT\n• ${dia}\n• ${fecha}`
 //_______________
-global.wm = '𝐉𝐞𝐧𝐧𝐱𝐓𝐚𝐭𝐢'
-global.db3t = `𝐉𝐞𝐧𝐧𝐱𝐓𝐚𝐭𝐢`
+global.wm = '𝐆𝐢𝐚𝐁𝐨𝐭'
+global.db3t = `𝐆𝐢𝐚𝐁𝐨𝐭`
 global.wm3 = db3t
-global.igfg = '𝐉𝐞𝐧𝐧𝐱𝐓𝐚𝐭𝐢'
+global.igfg = '𝐆𝐢𝐚𝐁𝐨𝐭'
 global.wait = '*[❕] CARGANDO POR FAVOR ESPERA...*'
 //-------------------
 global.md = 'https://chat.whatsapp.com/JOkFXt2T0kNFN0vkiModTx'

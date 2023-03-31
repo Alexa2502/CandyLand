@@ -33,7 +33,7 @@ m.reply(`╭──────────────────
 //no me roben la decoracion, no tengo creatividad
 
 let menuA = `
-*╭━━❍𝐆𝐢𝐚𝐁𝐨𝐭❍━━╮*
+*╭━━❍𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭❍━━╮*
 *┃ ╭━━━━━━━━━━━━━━━━╮*
 *┃ ┃ ╭┈────────────╮*
 *┃ ┃ │❍  𝐌𝐄𝐍𝐔 ❍*
@@ -44,7 +44,7 @@ let menuA = `
 *┃┃  ❍ ${ucapan()} ❍*
 *┃┣━━━━━━━━━━━━━━━━╾•*
 *┃┃ ▢ CREADOR DEL BOT:  ${creatorname}*
-*┃┃ ▢ NUMERO DEL CREADOR: wa.me/51961109600 (𝐍𝐎 𝐁𝐎𝐓)*
+*┃┃ ▢ NUMERO DEL CREADOR: wa.me/50236918974 (𝐍𝐎 𝐁𝐎𝐓)*
 *┃┃ ▢ VERSION » ${vs}*
 *┃┃ ▢ FECHA » ${week}, ${date}*
 *┃┃ ▢ TIEMPO ACTIVO » ${uptime}*
@@ -52,7 +52,7 @@ let menuA = `
 *┃┃ ▢ LENGUAJE » 𝐄𝐒𝐏𝐀𝐍̃𝐎𝐋*
 *┃┃ ▢ USUARIOS » ${Object.keys(global.db.data.users).length}*
 *┃╰━━━━━━━━━━━━━━━━╾•*
-*╰━━━╼𝐆𝐢𝐚𝐁𝐨𝐭╾━━━╯*`.trim()
+*╰━━━╼𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭╾━━━╯*`.trim()
 
 let menuB = `
 *═〔 INFO DEL USUARIO 〕⬣═*
@@ -98,7 +98,7 @@ let menuB = `
 ┣ ➱_*minimo 30 miembros*_
 ┗━━━━━━━━━━━━━┛
 
-┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐆𝐈𝐀𝐁𝐎𝐓」─
+┌──「🖥️𝐒𝐄𝐑𝐁𝐎𝐓 - 𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭」─
 ├➢_${usedPrefix}serbot_
 ├➢_${usedPrefix}stop_
 ├➢_${usedPrefix}bots_

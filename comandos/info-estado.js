@@ -9,7 +9,7 @@ let str = `╔═[ *𝐆𝐢𝐚𝐁𝐨𝐭* ]
 ║ *➤ 𝙷𝙾𝙻𝙰 ${taguser}*
 ║
 ║ *=➢ 🤖 TIEMPO ACTIVO:* ${uptime}
-║ *=➢ 👑 CREADOR: Aleizn*
+║ *=➢ 👑 CREADOR: Morgan*
 ║ *=➢ 🔗 PAGINA OFICIAL:* Aleizn.git
 ╚════════════════`.trim()
 let buttons = [{ buttonId: '#menu', buttonText: { displayText: ' 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 ✅' }, type: 1 }]

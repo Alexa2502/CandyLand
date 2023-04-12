@@ -22,8 +22,8 @@ let speed = neww - old
 let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➢ [🤴🏻] *CREADOR: Giabot*
-╠➢ [#️⃣] *NUMERO: +51 961 109 600*
+╠➢ [🤴🏻] *CREADOR: CandyLand*
+╠➢ [#️⃣] *NUMERO: +1 (829) 683-8473*
 ╠➢ [🎳] *PREFIJO: ${usedPrefix}*
 ╠➢ [🔐] *CHATS PRIVADOS: ${chats.length - groups.length}*
 ╠➢ [🦜] *CHAT DE GRUPOS: ${groups.length}* 
@@ -40,7 +40,7 @@ let info = `
 ╠➢ [👨‍🦯] *VELOCIDAD*: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 @ingrid_rios.xd 〙 ═
+╠═〘 𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝 〙 ═
 `.trim() 
 conn.sendButton(m.chat, info, wm, pp, [
 ['📦 𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos'],

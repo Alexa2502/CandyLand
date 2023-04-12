@@ -19,9 +19,9 @@ let teksbio = `
 
 ───────[ INFORMACIÓN DEL BOT ]───────
 
-✅ *NOMBRE: Giabot*
+✅ *NOMBRE: 𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝*
 🐈 *Github:* https://github.com/aleizn
-🥏 *Whatsapp* wa.me/50236918974
+🥏 *Whatsapp* wa.me/18296838473
 
 `
   let teks = ' '

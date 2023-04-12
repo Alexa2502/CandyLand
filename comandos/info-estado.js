@@ -5,11 +5,11 @@ let img = imagen5
 let _uptime = process.uptime() * 1000
 let uptime = clockString(_uptime)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╔═[ *𝐆𝐢𝐚𝐁𝐨𝐭* ]
+let str = `╔═[ *𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝* ]
 ║ *➤ 𝙷𝙾𝙻𝙰 ${taguser}*
 ║
 ║ *=➢ 🤖 TIEMPO ACTIVO:* ${uptime}
-║ *=➢ 👑 CREADOR: Morgan*
+║ *=➢ 👑 CREADOR: Candyland*
 ║ *=➢ 🔗 PAGINA OFICIAL:* Aleizn.git
 ╚════════════════`.trim()
 let buttons = [{ buttonId: '#menu', buttonText: { displayText: ' 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 ✅' }, type: 1 }]

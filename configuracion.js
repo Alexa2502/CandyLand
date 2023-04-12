@@ -7,8 +7,8 @@ import { en, es, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['50236918974', '🔰𝐌𝐨𝐫𝐠𝐚𝐧 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
-  ['5617198957', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
+  ['18296838473', '🔰𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
+  ['15165684235', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
   ['573184314110', '🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰', true],
   ['50246028932', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰', true],
   ['51936767238'],
@@ -19,8 +19,8 @@ global.owner = [
   ['595986674310']
 
 ] 
-global.suittag = ['50236918974'] 
-global.mods = ['5617198957'] 
+global.suittag = ['18296838473'] 
+global.mods = ['15165684235'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -80,7 +80,7 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es
 
 /* ______________________________________________ */
-global.creadorname = '𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭'
+global.creadorname = '𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = 'V10'
@@ -98,10 +98,10 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 global.packname = `👑 ➢ CREADOR POR:\n📅 ➢ Día:\n🗓️ ➢ Fecha:`
 global.author = ` DORRAT-BOT\n• ${dia}\n• ${fecha}`
 //_______________
-global.wm = '𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭'
-global.db3t = `𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭`
+global.wm = '𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝'
+global.db3t = `𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝`
 global.wm3 = db3t
-global.igfg = '𝐌𝐨𝐫𝐠𝐚𝐧𝐁𝐨𝐭'
+global.igfg = '𝐂𝐚𝐧𝐝𝐲𝐋𝐚𝐧𝐝'
 global.wait = '*[❕] CARGANDO POR FAVOR ESPERA...*'
 //-------------------
 global.md = 'https://chat.whatsapp.com/JOkFXt2T0kNFN0vkiModTx'
